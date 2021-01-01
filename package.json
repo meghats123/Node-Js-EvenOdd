@@ -2,7 +2,7 @@
   "name": "node-evenodd",
   "version": "1.0.0",
   "description": "node project",
-  "main": "index.js",
+  "main": "evenodd.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
